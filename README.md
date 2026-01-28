@@ -19,36 +19,6 @@ The application is user-friendly and configurable, adapting to the needs of any 
 
 ---
 
-## 🛠️ **Technologies Used**
-
-This project uses the following technologies and modules:
-
-- **Electron**: The main framework for creating cross-platform desktop applications with web technologies.  
-- **Toastify-js**: A lightweight library for visual notifications and alerts.  
-- **Electronmon**: A tool for automatically reloading the application during development.  
-
----
-
-## 📦 **Installation**
-
-To run the application locally, follow these steps:
-
-1. **Clone the repository**:  
-   ```bash
-   git clone https://github.com/ALVNF/Timbre.git
-   cd timbre
-   ```
-2. **Install the necessary dependencies:**
-    ```bash
-    npm install
-    ```
-3. **Run the application:**
-    ```bash
-    npm start
-    ```
-
----
-
 ## 📸 **Main Features**
 
 - 🎶 **Custom Song Playback**: Configure any audio file to play during class changes.  
